@@ -1,0 +1,27 @@
+{
+ "name": "Database Types",
+ "children": [
+  {
+   "name": "NoSQL",
+   "children": [
+      {"name": "Key Value", "size": 3938},
+      {"name": "Colunar", "size": 3812},
+      {"name": "Graph", "size": 6714}
+     ]
+  },
+  {
+   "name": "Relational Databases",
+   "children": [
+    {"name": "SQL Sever", "size": 1041},
+    {"name": "Oracle", "size": 5176}
+   ]
+  },
+  {
+   "name": "InMemory",
+   "children": [
+    {"name": "NewSQL", "size": 1758}
+   ]
+  }
+  
+ ]
+}
